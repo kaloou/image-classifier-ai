@@ -55,7 +55,7 @@ pip install -r requirements.txt
 2. Run the program:
 
 ```bash
-python guess_image.py
+python3 guess_image.py
 ```
 
 3. Follow the on-screen instructions to validate or correct predictions
