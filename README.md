@@ -7,8 +7,8 @@ This project uses a neural network to classify images into different categories.
 1. Clone the repository:
 
 ```bash
-git clone [REPO_URL]
-cd [FOLDER_NAME]
+git clone https://github.com/kaloou/image-classifier-ai.git
+cd image-classifier-ai
 ```
 
 2. Create a virtual environment:
